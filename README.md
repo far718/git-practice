@@ -7,3 +7,16 @@
 - git add: add changes from working directory to staging area
 - git commit: commit changes from staging area to current branch
 - git config: set or get configuration
+- git log: show history of project commits
+
+## Commit messages
+
+- default editor is vim (this can be changed)
+- `i` to enter *insert* mode
+- type commit message
+- `Esc` -> `:wq` -> `Enter` to write message and quit
+or use `git commit -m "<message>"`
+
+- First line should be clear, accurate, and concise
+- use proper, spelling, grammar and punctuation
+- don't end with a `.`
