@@ -20,3 +20,5 @@ or use `git commit -m "<message>"`
 - First line should be clear, accurate, and concise
 - use proper, spelling, grammar and punctuation
 - don't end with a `.`
+
+For more advice, see: https://chris.beams.io/posts/git-commit/
