@@ -8,6 +8,9 @@
 - git commit: commit changes from staging area to current branch
 - git config: set or get configuration
 - git log: show history of project commits
+- git stash: stash/store changes from working directory
+- git stash list: list stashes
+- got stash pop: apply stashed changes to working directory
 
 ## Commit messages
 
