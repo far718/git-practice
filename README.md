@@ -12,7 +12,11 @@
 - git branch -c "branch name": create a branch
 - git checkout -b "branch name": create branch, and then check it out
 - git branch: list branches
+- git stash: stash/store changes from working directory
+- git stash list: list stashes
+- got stash pop: apply stashed changes to working directory
 - git merge: merge changes from different branches
+
 
 ## What is a branch?
 
