@@ -9,7 +9,7 @@
 - git config: set or get configuration
 - git log: show history of project commits
 - git checkout "branch name": checkout branch (Update HEAD and apply changes to the working directory)
-- git merge: merge changes from different branches
+
 
 ## Commit messages
 
@@ -27,4 +27,4 @@ For more advice, see: https://chris.beams.io/posts/git-commit/
 
 ## Merging
 
-Merging means to bring the changes from one branch into another 
+Merging means to bring the changes from one branch into another
