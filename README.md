@@ -26,6 +26,8 @@ For more advice, see: https://chris.beams.io/posts/git-commit/
 
 ## Merging
 
-- Merging means to bring the changes from one branch into another branch
+Merging means to bring the changes from one branch into another branch
 
 - Fast-merging happens when the target branch was branched from the current one, and there are no new changes to the current branch since then.
+
+- An automatic merge happens when two histories have diverged, but git is able to reconcile them into one set of changes. This creates a new commit in current branch.  
