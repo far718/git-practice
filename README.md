@@ -8,7 +8,8 @@
 - git commit: commit changes from staging area to current branch
 - git config: set or get configuration
 - git log: show a history (aka "log") of project commits
-- git checkout "branch name": checkout branch (Update HEAD and apply changes to the working directory)
+- git checkout "branch name": checkout (switch to) a branch (Update HEAD and apply changes to the working directory)
+- git branch -c "branch name": create a branch
 - git merge: merge changes from different branches
 
 ## Commit messages
