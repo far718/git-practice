@@ -18,6 +18,9 @@
 - git show: show a single commit
 - git diff: show the difference between commits, the working directories, and the staging area
 - git merge: merge changes from different branches
+- git remote add <remote> <url>: add new <remote> at <url>
+- git remote -v: list remote repositories
+- git push -u <remote> <branch>: push <branch> to <remote>, and set default upstream for <branch>
 
 ## What is a branch?
 
