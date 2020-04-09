@@ -10,7 +10,17 @@
 - git log: show a history (aka "log") of project commits
 - git checkout "branch name": checkout (switch to) a branch (Update HEAD and apply changes to the working directory)
 - git branch -c "branch name": create a branch
+- git checkout -b "branch name": create branch, and then check it out
+- git branch: list branches
 - git merge: merge changes from different branches
+
+## What is a branch?
+
+A branch is a ref(erence) to commit. When Head points to a branch, we say we are 'on' that branch. When we make a commit when we are on that branch, the branch is updated to refer to the new commit.
+
+## What is HEAD?
+
+HEAD is a ref(erence) to the "current" branch (or sometimes a commit.... more on that later). Git commands like `status`, `log`, and `branch` use HEAD. `git checkout` updates HEAD to ref(er) to a different branch.
 
 ## Commit messages
 
