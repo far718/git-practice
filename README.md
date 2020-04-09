@@ -15,8 +15,9 @@
 - git stash: stash/store changes from working directory
 - git stash list: list stashes
 - got stash pop: apply stashed changes to working directory
+- git show: show a single commit
+- git diff: show the difference between commits, the working directories, and the staging area
 - git merge: merge changes from different branches
-
 
 ## What is a branch?
 
