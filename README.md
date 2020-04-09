@@ -57,4 +57,4 @@ Merging means to bring the changes from one branch into another branch
 
 A remote repo is one hosted somewhere other than our local machine. We can add `git remote add`, and setup *tracking branches* to track differences between our local and remote repositories.
 
-We push changes from our local machine with `git push`, and fetch from them with `git fetch`. We can also fetch and merge in one set with `git pull`
+We push changes from our local machine to remotes with `git push`, and fetch from remotes to local machine with `git fetch`. We can also fetch and merge in one set with `git pull`
